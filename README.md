@@ -21,7 +21,7 @@ This is a Full-Stack MERN website that is using a google book searching API. The
 
 In order to run this application, you will need to install the following
 
-- npm run instal
+- npm run install
 - npm run develop
 
 
